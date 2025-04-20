@@ -27,9 +27,3 @@ Este proyecto fue desarrollado y ejecutado en Google Colab. Para correrlo localm
 - Python 3.7+
 - Pandas
 - Matplotlib
-- Seaborn
-
-### Instalación de dependencias:
-
-```bash
-pip install pandas matplotlib seaborn
